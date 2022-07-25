@@ -30,7 +30,7 @@ public class switchcal {
                 int a2=s.nextInt();
                 System.out.println("Enter second number");
                 int b2=s.nextInt();
-                System.out.println("The sub is "+(a2*b2));
+                System.out.println("The multiplication is "+(a2*b2));
                 break;
             case 4 :
                 System.out.println("Exit");
